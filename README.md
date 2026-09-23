@@ -27,7 +27,7 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 4 shipped; ch 1–3 rebuilt in the native doctrine register (2026-09-23) |
+| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 5 *Speed and Stance* — the Wang Dong rivalry born on-page (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo) |
 
 ## 📚 The serials
@@ -35,7 +35,7 @@
 | Serial | Era | State |
 |---|---|---|
 | **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · ~354,700 words |
-| **Devouring Dragon** | Soul Land | 19 chapters · every chapter gate-PASS |
+| **Devouring Dragon** | Soul Land | 20 chapters · every chapter gate-PASS |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |

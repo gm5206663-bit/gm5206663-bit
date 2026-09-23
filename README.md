@@ -12,13 +12,18 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-10%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-400K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-550K%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
 <p align="center">
   🎓 <b>The method is now a standalone guide:</b> <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction"><b>how-to-write-fanfiction</b></a> —<br>
   10 laws, the chapter loop, audit gates, templates & case studies. <b>For any fandom.</b>
+</p>
+
+<p align="center">
+  📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
+  5 serials · 181 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -43,7 +48,7 @@
 | **The Second Heartbeat** — Tang San's twin brother, Falan-native | Soul Land 5 | Foundation stage |
 | **Seed of Creation** — son of the God of Destruction and the Goddess of Life | SL2.5 era | Foundation stage |
 
-*…plus an SL1 Gu Yuan archive and a new-SL3 branch frozen remote-only. Every serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit), the full public workspace.*
+*…plus an SL1 Gu Yuan archive and a new-SL3 branch frozen remote-only. Every serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit), the full public workspace — and they're all readable in one place: [**The Soul Library**](https://gm5206663-bit.github.io/soul-library/).*
 
 ## 📜 The laws every serial obeys
 

@@ -52,6 +52,7 @@
 
 | Tool | What it is |
 |---|---|
+| [`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction) | **Start here** — the complete method as a standalone guide: the ten laws, the chapter loop, how to build your own audit gate (with a working example), copy-paste templates, and case studies with real numbers. Fandom-neutral. |
 | [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) | The full public workspace + the **portable authoring kit** — world canon, story law, prose law, audit gates, templates, and a working verification script. It exists because a 90,000-word serial was once written and then rejected for five specific, diagnosable reasons — each of those failure modes is now structurally impossible. |
 | [`the-universal-storyline-creation`](https://github.com/gm5206663-bit/the-universal-storyline-creation) | The **Control Centre** — navigation and state reference for every serial, generated from `state/`. One read and a fresh agent reaches correct state. |
 | [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a fanfiction workspace as a reader + agent console: live gate, character locks, knowledge firewalls, every file with its sha256, and an independent stale-edge drift scan. Python stdlib only. |

@@ -27,7 +27,7 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 5 *Speed and Stance* — the Wang Dong rivalry born on-page (2026-09-23) |
+| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 6 *Measure and Weight* shipped; the Wang Dong rivalry live (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo) |
 
 ## 📚 The serials

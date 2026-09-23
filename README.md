@@ -16,6 +16,11 @@
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
+<p align="center">
+  🎓 <b>The method is now a standalone guide:</b> <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction"><b>how-to-write-fanfiction</b></a> —<br>
+  10 laws, the chapter loop, audit gates, templates & case studies. <b>For any fandom.</b>
+</p>
+
 ---
 
 ## 🔥 Currently writing

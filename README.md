@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  5 serials · 186 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  5 serials · 187 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -40,7 +40,7 @@
 | Serial | Era | State |
 |---|---|---|
 | **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · ~354,700 words |
-| **Devouring Dragon** | Soul Land | 23 chapters · every chapter gate-PASS |
+| **Devouring Dragon** | Soul Land | 24 chapters · every chapter gate-PASS |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |

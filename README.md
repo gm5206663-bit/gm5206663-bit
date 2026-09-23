@@ -40,7 +40,7 @@
 | Serial | Era | State |
 |---|---|---|
 | **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · ~354,700 words |
-| **Devouring Dragon** | Soul Land | 20 chapters · every chapter gate-PASS |
+| **Devouring Dragon** | Soul Land | 21 chapters · every chapter gate-PASS |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |

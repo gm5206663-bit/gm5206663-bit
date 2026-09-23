@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-10%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-550K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-750K%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  5 serials · 181 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  5 serials · 183 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---

@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  5 serials · 183 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  5 serials · 184 chapters · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 7 *Three Months* — P-13 months-and-canon law signed (2026-09-23) |
+| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 8 *The Sect Behind the Smoke* — G09 sect-join executed; moves near-daily (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo) |
 
 ## 📚 The serials

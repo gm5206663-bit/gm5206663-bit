@@ -66,17 +66,17 @@
 
 <p align="center">
   <a href="https://github.com/gm5206663-bit">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gm5206663-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gm5206663-bit&theme=tokyonight" alt="GitHub stats">
   </a>
   <a href="https://github.com/gm5206663-bit">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gm5206663-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gm5206663-bit&theme=tokyonight" alt="Top languages">
   </a>
 </p>
 
-## 📈 Recent activity
+## 📈 Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gm5206663-bit&theme=tokyonight&hide_border=true&area=true" width="100%" alt="commit activity graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gm5206663-bit&theme=tokyonight&hide_border=true" alt="streak stats">
 </p>
 
 ## 📫 Contact

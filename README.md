@@ -27,7 +27,7 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 2 — *The Measure* shipped 2026-09-23 |
+| **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 3 — *Monsters Run*; ch 1–3 re-carved in the plain register (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo) |
 
 ## 📚 The serials

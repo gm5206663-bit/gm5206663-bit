@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-12%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-796K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-13%2B-blueviolet?style=flat-square" alt="Serials"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-837K%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  6 serials · 193 chapters · 796K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  6 serials · 205 chapters · 837K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -49,13 +49,14 @@
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters · paused revival queued |
 | **Lan Shen** — dual-track reincarnation | Soul Land 3 | 2 chapters V2 · 8779w · 9 layers ALL GREEN |
 | **Stark Heir** — OC Mark Howard Stark, Tony's son | MCU · Iron Man 1 era | 4 chapters · gated |
+| **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · CH 12 CLEAN REBUILD · 41K words · 53/53 PASS · proper superpowered fights no ticker spam |
 | **MCU Eternal** — OC Varun, 11th Eternal gravity+kinetic | MCU · Eternals era | 3 chapters · paused |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |
 | **Holy Spirit** — a reincarnator who walks into the Holy Spirit Cult at six | Soul Land 2 | 4 chapters |
 | **The Second Heartbeat** — Tang San's twin brother, Falan-native | Soul Land 5 | Foundation stage |
 | **Seed of Creation** — son of the God of Destruction and the Goddess of Life | SL2.5 era | Foundation stage |
 
-*Every Soul Land serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) except Grey Wolf ([`soul-land-2-the-grey-wolf`](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf) perfect rebuild), Lan Shen ([`lan_shen`](https://github.com/gm5206663-bit/lan_shen)), and the MCU serials ([`stark_heir`](https://github.com/gm5206663-bit/stark_heir), [`mcu_eternal_fanfic`](https://github.com/gm5206663-bit/mcu_eternal_fanfic)). They're all readable in one place: [**The Soul Library**](https://gm5206663-bit.github.io/soul-library/) (now 193 chapters).*
+*Every Soul Land serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) except Grey Wolf ([`soul-land-2-the-grey-wolf`](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf) perfect rebuild), Lan Shen ([`lan_shen`](https://github.com/gm5206663-bit/lan_shen)), and the MCU serials ([`stark_heir`](https://github.com/gm5206663-bit/stark_heir), [`mcu_eternal_fanfic`](https://github.com/gm5206663-bit/mcu_eternal_fanfic)). They're all readable in one place: [**The Soul Library**](https://gm5206663-bit.github.io/soul-library/) (now 205 chapters).*
 
 ## 📜 The laws every serial obeys
 

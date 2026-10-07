@@ -56,7 +56,7 @@
 | **One in a Thousand** — OC Su Yan, Luo Sanpao, beside canon same years as Tang Wulin | Soul Land 3 | 🔴 LIVE · 7 chapters · 63,209 words; the OC beside canon in Glorybound |
 | **Fire Dragon Lizard** — OC from Holy Spirit Village, Tang San's best friend, Ground Fire Dragon Lizard | Soul Land 1 | 🔴 LIVE · 5 chapters · gate PASS |
 | **Clear Sky Lion** — OC from the Clear Sky lineage | Soul Land 2 | Stage 0 — rulings first, prose second; zero chapters by design |
-| **Qian Xun Ji Reborn** — reincarnator as the Pope, right after the night with Bibi Dong | Soul Land 1 | Foundation docset adopted (gate green) · Ch1 live + Ch2 v1 pass next · adaptation talent Mortal Divine Level |
+| **Qian Xun Ji Reborn** — reincarnator as the Pope, right after the night with Bibi Dong | Soul Land 1 | Foundation adopted + read-and-fix pass done (gate green) · Ch1 v5 + Ch2 v2 live · Ch3 next · adaptation talent Mortal Divine Level |
 | **Pokémon — Stage 0** | Pokémon | Stage 0 complete — drafting locked by design |
 | **The Second Heartbeat** — Tang San's twin brother, Falan-native | Soul Land 5 | Foundation stage |
 | **Seed of Creation** — son of the God of Destruction and the Goddess of Life | SL2.5 era | Foundation stage |

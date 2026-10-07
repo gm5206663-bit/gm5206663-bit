@@ -44,7 +44,7 @@
 | **The Grey Wolf** — OC Ye Cang, Grey Wolf → Storm Frost Ghost Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 6 chapters · 15,798w · v0.7.0 — clean and clear, F0-F22 locks, effective talent 3.5x |
 | **The Golden Lion** — OC Jin Yang, Golden Lion | Soul Land 2 | 🔴 LIVE · 8 chapters · near-daily |
 | **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · ~354,700 words |
-| **Devouring Dragon** | Soul Land | 24 chapters · every chapter gate-PASS · canon-voice rollout Ch1-10 |
+| **Devouring Dragon** | Soul Land | 24 chapters · every chapter gate-PASS · canon-voice rollout Ch1-12 |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters · paused revival queued |
 | **Lan Shen** — dual-track reincarnation | Soul Land 3 | 2 chapters V2 · 8779w · 9 layers ALL GREEN |

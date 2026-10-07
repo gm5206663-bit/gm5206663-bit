@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-16%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-917K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-928K%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  9 serials · 219 chapters · 917K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  9 serials · 219 chapters · 928K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -50,7 +50,7 @@
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters · paused revival queued |
 | **Lan Shen** — dual-track reincarnation | Soul Land 3 | 2 chapters V2 · 8779w · 9 layers ALL GREEN |
 | **Stark Heir** — OC Mark Howard Stark, Tony's son | MCU · Iron Man 1 era | 🔴 LIVE · 5 chapters · gated — Ch5 *Gulmira* |
-| **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · Ch 15 *Blood Bonds* · 15 chapters · 45,852 words · 53/53 PASS · proper superpowered fights no ticker spam |
+| **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · Ch 15 *Blood Bonds* · 15 chapters · 59,182 words · 53/53 PASS · proper superpowered fights no ticker spam |
 | **MCU Eternal** — OC Varun, 11th Eternal gravity+kinetic | MCU · Eternals era | 3 chapters · paused |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |
 | **Holy Spirit** — a reincarnator who walks into the Holy Spirit Cult at six | Soul Land 2 | 4 chapters · paused |
@@ -83,7 +83,7 @@
 | [`the-universal-storyline-creation`](https://github.com/gm5206663-bit/the-universal-storyline-creation) | The **Control Centre** — navigation and state reference for every serial, generated from `state/`. One read and a fresh agent reaches correct state. **🌐 Live:** [gm5206663-bit.github.io/the-universal-storyline-creation](https://gm5206663-bit.github.io/the-universal-storyline-creation/) |
 | [`fire-phoenix-workshop`](https://github.com/gm5206663-bit/fire-phoenix-workshop) | **Fire Phoenix provenance workshop** — the recovered public baseline plus the author-review replacement lane for Ch 48-60. Public authority stays the Ch 52 *Amiable Beasts* baseline until the author accepts; nothing is silently overwritten. |
 | [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a fanfiction workspace as a reader + agent console: live gate, character locks, knowledge firewalls, every file with its sha256, and an independent stale-edge drift scan. Python stdlib only. **🌐 Live demo:** [gm5206663-bit.github.io/storyos-site](https://gm5206663-bit.github.io/storyos-site/) |
-| [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 9 serials, 219 chapters, 917K+ words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library/) |
+| [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 9 serials, 219 chapters, 928K+ words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library/) |
 
 ## 📊 GitHub stats
 

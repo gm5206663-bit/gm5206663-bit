@@ -36,7 +36,7 @@
 | **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 8 *The Sect Behind the Smoke* — G09 sect-join executed; moves near-daily (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo); the Ch 48-60 replacement lane is in **author review** in the public workshop repo — C61 not authorized |
 | **Lan Shen** — dual-track reincarnation, canon-parallel rebuild | Soul Land 3 · *Legend of Dragon King* | 🔴 Ch2 *The Fifteen* — V2 epoch 2 chapters 8779w 9 layers ALL GREEN (2026-09-26) |
-| **Qian Xun Ji Reborn** — reincarnator as the era's Angel Douluo, eleven years before canon | Soul Land 1 · pre-canon | 🔴 Ch4 *The Second Core* v4 — 2,716w, gates green; the second soul core formed cold in the spiritual sea (2026-10-07); Ch5 on the author's word |
+| **Qian Xun Ji Reborn** — reincarnator as the era's Angel Douluo, eleven years before canon | Soul Land 1 · pre-canon | 🔴 Ch4 *The Second Core* v5 — 2,784w, gate PASS; rebuilt whole in the canon register on the author's correction (2026-10-07); the second soul core formed cold in the spiritual sea; Ch5 on the author's word |
 
 ## 📚 The serials
 

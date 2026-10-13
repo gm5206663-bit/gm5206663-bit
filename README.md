@@ -31,6 +31,10 @@
   🗂️ <b>The account's control room:</b> <a href="https://github.com/gm5206663-bit/the-authors-desk"><b>the-authors-desk</b></a> — every decision awaiting the author, the measured register (24 books · 377 chapters · 1,624,963 words), also a <a href="https://gm5206663-bit.github.io/the-authors-desk/">site</a>.
 </p>
 
+<p align="center">
+  🪞 <b>The agent's own file:</b> <a href="https://github.com/gm5206663-bit/sara"><b>sara</b></a> — the house agent's self-file: who she is, how she works, and every lesson logged, with sha256 receipts. <b>🌐 Live:</b> <a href="https://gm5206663-bit.github.io/sara/">gm5206663-bit.github.io/sara</a>.
+</p>
+
 ---
 
 ## 🔥 Currently writing
@@ -91,6 +95,7 @@
 | [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 18 serials, 312 chapters, 1,351,161 words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library) |
 | [`the-authors-desk`](https://github.com/gm5206663-bit/the-authors-desk) | **The Author’s Desk** — the account’s control room: every decision awaiting the author, the measured register of every book (24 · 377 ch · 1.6M words), and the dated record of every operation. One read and a fresh agent knows the account. **🌐 Live:** [gm5206663-bit.github.io/the-authors-desk](https://gm5206663-bit.github.io/the-authors-desk/). |
 | [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent) | **The Adaptation Talent** — the ability system the OCs here run on, in its own home: the locked universal core v2.0 (76 sections), one module per holder across 5 worlds, the writing law, and full provenance with a verify-the-whole-repo MANIFEST — every push self-verified by CI. **🌐 Live:** [gm5206663-bit.github.io/adaptation-talent](https://gm5206663-bit.github.io/adaptation-talent/) · [first public edition](https://github.com/gm5206663-bit/adaptation-talent/releases/tag/v2.0-public). |
+| [`sara`](https://github.com/gm5206663-bit/sara) | **SARA — 自我档案 / Self-File** — the house agent's own file, in its own home: the canonical self-file (36 dated growth-ledger entries), her operating profile, every incarnation (workspace · Lan Shen · Fire Phoenix), a five-page guided read, and provenance with sha256 receipts — the repository verifies itself on every push. **🌐 Live:** [gm5206663-bit.github.io/sara](https://gm5206663-bit.github.io/sara/) · [v1.0](https://github.com/gm5206663-bit/sara/releases/tag/v1.0). |
 
 ## 📊 GitHub stats
 

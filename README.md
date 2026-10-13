@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-16%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-1.35M%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-1.6M%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -24,6 +24,11 @@
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
   18 serials · 312 chapters · 1.35M+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+</p>
+
+<p align="center">
+  ⚗️ <b>The law the OCs run on:</b> <a href="https://github.com/gm5206663-bit/adaptation-talent"><b>adaptation-talent</b></a> — the locked universal core, every holder, readable as a <a href="https://gm5206663-bit.github.io/adaptation-talent/">site</a>.<br>
+  🗂️ <b>The account's control room:</b> <a href="https://github.com/gm5206663-bit/the-authors-desk"><b>the-authors-desk</b></a> — every decision awaiting the author, the measured register (24 books · 377 chapters · 1,624,963 words), also a <a href="https://gm5206663-bit.github.io/the-authors-desk/">site</a>.
 </p>
 
 ---
@@ -77,15 +82,15 @@
 
 | Tool | What it is |
 |---|---|
-| [`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction) | **Start here** — the complete method as a standalone guide: the ten laws, the chapter loop, how to build your own audit gate (with a working example), copy-paste templates, and case studies with real numbers including Grey Wolf perfect rebuild. Fandom-neutral. |
+| [`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction) | **Start here** — the complete method as a standalone guide: the ten laws, the chapter loop, how to build your own audit gate (with a working example), copy-paste templates, and case studies with real numbers including Grey Wolf perfect rebuild. Fandom-neutral. **🌐 Live:** [gm5206663-bit.github.io/how-to-write-fanfiction](https://gm5206663-bit.github.io/how-to-write-fanfiction/). |
 | [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) | The full public workspace + the **portable authoring kit** — world canon, story law, prose law, audit gates, templates, and a working verification script. It exists because a 90,000-word serial was once written and then rejected for five specific, diagnosable reasons — each of those failure modes is now structurally impossible. |
 | [`soul_land_2_the_grey_wolf/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/soul_land_2_the_grey_wolf) | **The Grey Wolf** — perfect rebuild v5.4.3 Canon-Strict: ten chapters, all in band 2400–3400, avg 14–18, over60 0, F0–F26 locks, effective talent 3.5x, 80 panel rows IN SYNC, run_all green. |
 | [`the-universal-storyline-creation`](https://github.com/gm5206663-bit/the-universal-storyline-creation) | The **Control Centre** — navigation and state reference for every serial, generated from `state/`. One read and a fresh agent reaches correct state. **🌐 Live:** [gm5206663-bit.github.io/the-universal-storyline-creation](https://gm5206663-bit.github.io/the-universal-storyline-creation/) |
 | [`soul_land_4_fire_phoenix/workshop/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/soul_land_4_fire_phoenix/workshop) | **Fire Phoenix provenance workshop** — the public baseline (52 chapters on the shelf) plus the author-review replacement lane for Ch 48-60. Public authority stays the Ch 52 *Amiable Beasts* baseline until the author accepts; nothing is silently overwritten. |
 | [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a fanfiction workspace as a reader + agent console: live gate, character locks, knowledge firewalls, every file with its sha256, and an independent stale-edge drift scan. Python stdlib only. **🌐 Live demo:** [gm5206663-bit.github.io/storyos-site](https://gm5206663-bit.github.io/storyos-site/) |
 | [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 18 serials, 312 chapters, 1,351,161 words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library) |
-| [`the-authors-desk`](https://github.com/gm5206663-bit/the-authors-desk) | **The Author’s Desk** — the account’s control room: every decision awaiting the author, the measured register of every book (24 · 377 ch · 1.6M words), and the dated record of every operation. One read and a fresh agent knows the account. |
-| [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent) | **The Adaptation Talent** — the ability system the OCs here run on, in its own home: the locked universal core v2.0 (76 sections), one module per holder across 5 worlds, the writing law, and full provenance with a verify-the-whole-repo MANIFEST. |
+| [`the-authors-desk`](https://github.com/gm5206663-bit/the-authors-desk) | **The Author’s Desk** — the account’s control room: every decision awaiting the author, the measured register of every book (24 · 377 ch · 1.6M words), and the dated record of every operation. One read and a fresh agent knows the account. **🌐 Live:** [gm5206663-bit.github.io/the-authors-desk](https://gm5206663-bit.github.io/the-authors-desk/). |
+| [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent) | **The Adaptation Talent** — the ability system the OCs here run on, in its own home: the locked universal core v2.0 (76 sections), one module per holder across 5 worlds, the writing law, and full provenance with a verify-the-whole-repo MANIFEST — every push self-verified by CI. **🌐 Live:** [gm5206663-bit.github.io/adaptation-talent](https://gm5206663-bit.github.io/adaptation-talent/) · [first public edition](https://github.com/gm5206663-bit/adaptation-talent/releases/tag/v2.0-public). |
 
 ## 📊 GitHub stats
 

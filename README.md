@@ -85,6 +85,7 @@
 | [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a fanfiction workspace as a reader + agent console: live gate, character locks, knowledge firewalls, every file with its sha256, and an independent stale-edge drift scan. Python stdlib only. **🌐 Live demo:** [gm5206663-bit.github.io/storyos-site](https://gm5206663-bit.github.io/storyos-site/) |
 | [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 18 serials, 312 chapters, 1,351,161 words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library) |
 | [`the-authors-desk`](https://github.com/gm5206663-bit/the-authors-desk) | **The Author’s Desk** — the account’s control room: every decision awaiting the author, the measured register of every book (22 · 375 ch · 1.6M words), and the dated record of every operation. One read and a fresh agent knows the account. |
+| [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent) | **The Adaptation Talent** — the ability system the OCs here run on, in its own home: the locked universal core v2.0 (76 sections), one module per holder across 5 worlds, the writing law, and full provenance with a verify-the-whole-repo MANIFEST. |
 
 ## 📊 GitHub stats
 

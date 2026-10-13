@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-16%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-955K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-1.35M%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  9 serials · 230 chapters · 955K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  18 serials · 312 chapters · 1.35M+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -32,23 +32,23 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Grey Wolf** — OC Ye Cang, Grey Wolf martial soul, innate rank 1, Ledger System, beside canon same years as Huo Yuhao — PERFECT REBUILD v0.7.0 clean and clear | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch10 *The Combat Exam* — Arc1 Grey Ridge complete, Arc2 the road to Shrek City and the combat exam, 10 chapters 25.8Kw gated green, Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow (2026-09-26) |
+| **The Grey Wolf** — OC Ye Cang, Grey Wolf martial soul, innate rank 1, Ledger System, beside canon same years as Huo Yuhao — PERFECT REBUILD v5.4.3 Canon-Strict | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch10 *The Combat Exam* — Arc 1 Grey Ridge complete, road to Shrek City craft; ten chapters all in band 2400–3400, over60 0, gated green; Spirit Connection 200–300, body 100–150kg robust for age, Storm Frost Ghost Wolf ice+wind High; Ring Veil true color within limits (concealment dimming PROPOSED, not canon); next at the author’s word |
 | **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 8 *The Sect Behind the Smoke* — G09 sect-join executed; moves near-daily (2026-09-23) |
-| **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo); the Ch 48-60 replacement lane is in **author review** in the public workshop repo — C61 not authorized |
-| **Lan Shen** — dual-track reincarnation, canon-parallel rebuild | Soul Land 3 · *Legend of Dragon King* | 🔴 Ch2 *The Fifteen* — V2 epoch 2 chapters 8779w 9 layers ALL GREEN (2026-09-26) |
+| **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts*; the Ch 48-60 replacement lane sits in the kit’s `soul_land_4_fire_phoenix/workshop/` in **author review** — C61 not authorized |
+| **Lan Shen** — dual-track reincarnation, canon-parallel rebuild | Soul Land 3 · *Legend of Dragon King* | 🔴 Ch7 *Fed* — V2 epoch 7 chapters · 32,211w · nine layers ALL GREEN |
 | **Qian Xun Ji Reborn** — reincarnator as the era's Angel Douluo, eleven years before canon | Soul Land 1 · pre-canon | 🔴 **nine chapters live** (2026-10-10) — 25,956w, every one gate PASS and every one inside the house register; the era's Angel Douluo writes a codex instead of a war, forms a second core cold in the spiritual sea, and in Ch05 walks east alone to the basin with the two waters, takes six of the twelve herbs and leaves six standing, and un-knits his first ring — the seam tears, a meridian opens, the domain goes out of him, and the ring comes back **gold**: a blood-essence ring with no year, running on blood and not soul power, of a kind only two dragon-blooded beings have ever carried, and gold is the Angel God ring's own colour (F15: no gain without its failure, backlash and cost · F16: the beast-ring colour ladder does not apply to his rings); Ch06 "The Colour of Gold": the second ring, its seam worse than the first, the purple chrysanthemum pill swallowed at last, the wall coming down to **ninety-seven**, and a blood-essence layer rising over two rings — an overlay that leaves the bird's shield and the sparrow's blessing exactly where they were — plus the pillar seen from a village, he walks home into a city that is already telling the story wrong, and a father who has been standing in the hall of statues for hours; Ch07 "The Cold Broke": the birth in spring 2620 — the strongest man on the continent holds a wet cloth, the gold rings come up unbidden and are his and not hers, and the mother's face holds nothing at all; Ch08 "What the Sea Sold Cheap" (v3, on the author's own sequence): she stands **eighty-nine with eight rings, two years at the wall of ninety, and the ring is not there** — the pill is an immortal-herb pill cut fresh from the secret basin, bound with the whale gum he stockpiled knowing its worth, and it packs her to the razor edge of ninety while five levels' worth of power **waits behind the wall** as canon's bottleneck law allows, and the first core puts **both spiders in the world at the same hour for the first time in her life**, and the romance is natural: she asks him to stay and kisses him first; Ch09 "The Cold North Sea" (v3): the tribulation-wounded hundred-thousand-year leviathan, her venom in the wound when the heart stops, and **at ninety she absorbs her ninth ring — the red hundred-thousand — and both floods land her at ninety-five on the page, six levels counted aloud, a Titled Douluo at twenty, the youngest in any record** — with the 100,000-year torso bone fusing in nine days with two usable skills, and the morning she says **"our daughter"** first — *"I will be the one who tells her… and you will be there when I tell her"*; Ch10 and Ch11 were written, struck three times on the Angel God trials, and then **deleted whole on the author's word** — so the serial stands at nine chapters and nothing beyond Ch09 has happened: he is still the Pope at ninety-seven with two cores and two of the six Angel bones, she is a Titled Douluo at ninety-five with nine rings and is **not** Pope, the trials have not been entered, and there is no third core. The beat those chapters carried is ruled design, unwritten and waiting; Ch10 opens on the author's word |
 
 ## 📚 The serials
 
 | Serial | Era | State |
 |---|---|---|
-| **The Grey Wolf** — OC Ye Cang, Grey Wolf → Storm Frost Ghost Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 10 chapters · 25,802w · v0.7.0 — clean and clear, F0-F22 locks, effective talent 3.5x |
+| **The Grey Wolf** — OC Ye Cang, Grey Wolf → Storm Frost Ghost Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD v5.4.3 Canon-Strict · 10 chapters · 25,792w · clean and clear, F0–F26 locks, effective talent 3.5x |
 | **The Golden Lion** — OC Jin Yang, Golden Lion | Soul Land 2 | 🔴 LIVE · 8 chapters · near-daily |
 | **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · 571,280 words |
 | **Devouring Dragon** | Soul Land | 24 chapters · every chapter gate-PASS · canon-voice rollout Ch1-12 |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters · paused revival queued |
-| **Lan Shen** — dual-track reincarnation | Soul Land 3 | 2 chapters V2 · 8779w · 9 layers ALL GREEN |
+| **Lan Shen** — dual-track reincarnation | Soul Land 3 | 🔴 LIVE · 7 chapters V2 · 32,211w · nine layers ALL GREEN |
 | **Stark Heir** — OC Mark Howard Stark, Tony's son | MCU · Iron Man 1 era | 🔴 LIVE · 5 chapters · gated — Ch5 *Gulmira* |
 | **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · Ch 17 *The Convention* · 17 chapters · 61,986 words · gates armed in CI on every push · proper superpowered fights no ticker spam |
 | **MCU Eternal** — OC Varun, 11th Eternal gravity+kinetic | MCU · Eternals era | 3 chapters · paused |
@@ -57,12 +57,12 @@
 | **One in a Thousand** — OC Su Yan, Luo Sanpao, beside canon same years as Tang Wulin | Soul Land 3 | 🔴 LIVE · 7 chapters · 63,209 words; the OC beside canon in Glorybound |
 | **Fire Dragon Lizard** — OC from Holy Spirit Village, Tang San's best friend, Ground Fire Dragon Lizard | Soul Land 1 | 🔴 LIVE · 5 chapters · gate PASS |
 | **Clear Sky Lion** — OC from the Clear Sky lineage | Soul Land 2 | Stage 0 — rulings first, prose second; zero chapters by design |
-| **Qian Xun Ji Reborn** — reincarnator as the Pope, right after the night with Bibi Dong | Soul Land 1 | Foundation adopted + pass done (gate green) · Ch1–Ch4 live · complete canon master compiled (full harvest, tagged receipts) · Ch4 "The Second Core" live (R27: the sword walked as a road; second soul core formed cold in the spiritual sea, turning against the warm first) · canon master now franchise-COMPLETE, era-tagged: section 0 maps all volumes + the wai-zhuan extras + crossovers (SL2–SL5 core law; Ye Xinglan sword-soul receipt) · deep round: side-story casts + SL4 protagonist + Renxue/Bibi-era receipts filed (SL6 = fan works only) · Ch4 v4 (invented arms master struck on the author's call; discipline from the book alone; 2,716w; gates green) · Ch5 on the author's word |
+| **Qian Xun Ji Reborn** — reincarnator as the era’s Angel Douluo, eleven years before canon | Soul Land 1 · pre-canon | 🔴 nine chapters live · 25,956 words · every chapter gate PASS · Ch10 opens on the author’s word |
 | **Pokémon — Stage 0** | Pokémon | Stage 0 complete — drafting locked by design |
 | **The Second Heartbeat** — Tang San's twin brother, Falan-native | Soul Land 5 | Foundation stage |
 | **Seed of Creation** — son of the God of Destruction and the Goddess of Life | SL2.5 era | Foundation stage |
 
-*Every Soul Land serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) except Grey Wolf ([`soul-land-2-the-grey-wolf`](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf) perfect rebuild), Lan Shen ([`lan_shen`](https://github.com/gm5206663-bit/lan_shen)), and the MCU serials ([`stark_heir`](https://github.com/gm5206663-bit/stark_heir), [`mcu_eternal_fanfic`](https://github.com/gm5206663-bit/mcu_eternal_fanfic)). They're all readable in one place: [**The Soul Library**](https://gm5206663-bit.github.io/soul-library/) (now 219 chapters).*
+*Every Soul Land serial lives in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) — Grey Wolf and Lan Shen included. Outside the kit: the MCU serials ([`stark_heir`](https://github.com/gm5206663-bit/stark_heir), [`mcu_eternal_fanfic`](https://github.com/gm5206663-bit/mcu_eternal_fanfic)) and [`supergirl-adrian-vale`](https://github.com/gm5206663-bit/supergirl-adrian-vale). They’re all readable in one place: [**The Soul Library**](https://gm5206663-bit.github.io/soul-library/) (now 312 chapters, 18 serials).*
 
 ## 📜 The laws every serial obeys
 
@@ -79,11 +79,11 @@
 |---|---|
 | [`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction) | **Start here** — the complete method as a standalone guide: the ten laws, the chapter loop, how to build your own audit gate (with a working example), copy-paste templates, and case studies with real numbers including Grey Wolf perfect rebuild. Fandom-neutral. |
 | [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) | The full public workspace + the **portable authoring kit** — world canon, story law, prose law, audit gates, templates, and a working verification script. It exists because a 90,000-word serial was once written and then rejected for five specific, diagnosable reasons — each of those failure modes is now structurally impossible. |
-| [`soul-land-2-the-grey-wolf`](https://github.com/gm5206663-bit/soul-land-2-the-grey-wolf) | **The Grey Wolf** — perfect rebuild v0.7.0: 6 chapters 2400-3400w band avg 14-18 over60 0 the-way 0, F0-F22 locks, effective talent 3.5x, Spirit Sea 850, Storm Frost Ghost Wolf, 80 panel rows IN SYNC. |
+| [`soul_land_2_the_grey_wolf/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/soul_land_2_the_grey_wolf) | **The Grey Wolf** — perfect rebuild v5.4.3 Canon-Strict: ten chapters, all in band 2400–3400, avg 14–18, over60 0, F0–F26 locks, effective talent 3.5x, 80 panel rows IN SYNC, run_all green. |
 | [`the-universal-storyline-creation`](https://github.com/gm5206663-bit/the-universal-storyline-creation) | The **Control Centre** — navigation and state reference for every serial, generated from `state/`. One read and a fresh agent reaches correct state. **🌐 Live:** [gm5206663-bit.github.io/the-universal-storyline-creation](https://gm5206663-bit.github.io/the-universal-storyline-creation/) |
-| [`fire-phoenix-workshop`](https://github.com/gm5206663-bit/fire-phoenix-workshop) | **Fire Phoenix provenance workshop** — the recovered public baseline plus the author-review replacement lane for Ch 48-60. Public authority stays the Ch 52 *Amiable Beasts* baseline until the author accepts; nothing is silently overwritten. |
+| [`soul_land_4_fire_phoenix/workshop/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/soul_land_4_fire_phoenix/workshop) | **Fire Phoenix provenance workshop** — the public baseline (52 chapters on the shelf) plus the author-review replacement lane for Ch 48-60. Public authority stays the Ch 52 *Amiable Beasts* baseline until the author accepts; nothing is silently overwritten. |
 | [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a fanfiction workspace as a reader + agent console: live gate, character locks, knowledge firewalls, every file with its sha256, and an independent stale-edge drift scan. Python stdlib only. **🌐 Live demo:** [gm5206663-bit.github.io/storyos-site](https://gm5206663-bit.github.io/storyos-site/) |
-| [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 9 serials, 219 chapters, 928K+ words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library/) |
+| [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **The Soul Library** — 18 serials, 312 chapters, 1,351,161 words, every chapter gated, one clean reading site. **🌐 Live:** [gm5206663-bit.github.io/soul-library](https://gm5206663-bit.github.io/soul-library) |
 
 ## 📊 GitHub stats
 

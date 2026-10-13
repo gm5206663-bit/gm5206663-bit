@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit?tab=followers"><img src="https://img.shields.io/github/followers/gm5206663-bit?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
   <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Serials-16%2B-blueviolet?style=flat-square" alt="Serials"></a>
-  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-928K%2B-ff6600?style=flat-square" alt="Words"></a>
+  <a href="https://github.com/gm5206663-bit?tab=repositories"><img src="https://img.shields.io/badge/Words%20written-955K%2B-ff6600?style=flat-square" alt="Words"></a>
   <a href="https://github.com/gm5206663-bit/soul-land-universal-kit"><img src="https://img.shields.io/badge/Every%20chapter-gated-brightgreen?style=flat-square" alt="Gated"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   📖 <b>Read the serials:</b> <a href="https://gm5206663-bit.github.io/soul-library/"><b>The Soul Library</b></a> —<br>
-  9 serials · 219 chapters · 928K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
+  9 serials · 230 chapters · 955K+ words · every one machine-checked before it ships. Covers, reading progress, zero tracking.
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 | Serial | Era | Live edge |
 |---|---|---|
-| **The Grey Wolf** — OC Ye Cang, Grey Wolf martial soul, innate rank 1, Ledger System, beside canon same years as Huo Yuhao — PERFECT REBUILD v0.7.0 clean and clear | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch6 *The Hem Road* — Arc1 Grey Ridge complete, Arc2 hem-road craft daily life, 6 chapters 15.8Kw gated green, Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow (2026-09-26) |
+| **The Grey Wolf** — OC Ye Cang, Grey Wolf martial soul, innate rank 1, Ledger System, beside canon same years as Huo Yuhao — PERFECT REBUILD v0.7.0 clean and clear | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch10 *The Combat Exam* — Arc1 Grey Ridge complete, Arc2 the road to Shrek City and the combat exam, 10 chapters 25.8Kw gated green, Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow (2026-09-26) |
 | **The Golden Lion** — OC Jin Yang, a village-born boy with a **Golden Lion** martial soul and a womb-born Adaptation Talent, walking toward Shrek Academy at eleven | Soul Land 2 · *The Unrivaled Tang Sect* | 🔴 Ch 8 *The Sect Behind the Smoke* — G09 sect-join executed; moves near-daily (2026-09-23) |
 | **Fire Phoenix** — OC Yan Shuo, the true awakened Fire Phoenix | Soul Land 4 · *Ultimate Tang Sect* | 🔴 After Ch 52 — *Amiable Beasts* (private repo); the Ch 48-60 replacement lane is in **author review** in the public workshop repo — C61 not authorized |
 | **Lan Shen** — dual-track reincarnation, canon-parallel rebuild | Soul Land 3 · *Legend of Dragon King* | 🔴 Ch2 *The Fifteen* — V2 epoch 2 chapters 8779w 9 layers ALL GREEN (2026-09-26) |
@@ -42,15 +42,15 @@
 
 | Serial | Era | State |
 |---|---|---|
-| **The Grey Wolf** — OC Ye Cang, Grey Wolf → Storm Frost Ghost Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 6 chapters · 15,798w · v0.7.0 — clean and clear, F0-F22 locks, effective talent 3.5x |
+| **The Grey Wolf** — OC Ye Cang, Grey Wolf → Storm Frost Ghost Wolf | Soul Land 2 | 🔴 LIVE · PERFECT REBUILD · 10 chapters · 25,802w · v0.7.0 — clean and clear, F0-F22 locks, effective talent 3.5x |
 | **The Golden Lion** — OC Jin Yang, Golden Lion | Soul Land 2 | 🔴 LIVE · 8 chapters · near-daily |
-| **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · ~354,700 words |
+| **The Adaptive Prodigy** — OC Lin Hao | Soul Land 3 | 116 chapters · 571,280 words |
 | **Devouring Dragon** | Soul Land | 24 chapters · every chapter gate-PASS · canon-voice rollout Ch1-12 |
 | **Blue Silver** — a Blue Silver Emperor grass named *Home* | pre-canon | ✅ Book One complete — 15 chapters · 34,711 words |
 | **The Unraveled Tide** — OC Jiang Che | Soul Land 2 | 24 chapters · paused revival queued |
 | **Lan Shen** — dual-track reincarnation | Soul Land 3 | 2 chapters V2 · 8779w · 9 layers ALL GREEN |
 | **Stark Heir** — OC Mark Howard Stark, Tony's son | MCU · Iron Man 1 era | 🔴 LIVE · 5 chapters · gated — Ch5 *Gulmira* |
-| **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · Ch 15 *Blood Bonds* · 15 chapters · 59,182 words · 53/53 PASS · proper superpowered fights no ticker spam |
+| **Supergirl - Adrian Vale** — OC Adrian Vale, hybrid Kryptonian/Daxamite, self-sealed human-level, Cat Grant employee, romance kara | DC TV Supergirl S01 | 🔴 LIVE · Ch 17 *The Convention* · 17 chapters · 61,986 words · gates armed in CI on every push · proper superpowered fights no ticker spam |
 | **MCU Eternal** — OC Varun, 11th Eternal gravity+kinetic | MCU · Eternals era | 3 chapters · paused |
 | **Dragon Prince Yuan** — Zhou Xu | native-OC | Chapter 1 live · gate PASS |
 | **Holy Spirit** — a reincarnator who walks into the Holy Spirit Cult at six | Soul Land 2 | 4 chapters · paused |

@@ -1,4 +1,6 @@
 <p align="center">
+
+**For agents:** [local entry](AGENTS.md) · [account starting page](https://github.com/gm5206663-bit/the-authors-desk/blob/main/agents/START-HERE.md).
   <img src="assets/banner.png" alt="Blue silver grass, a fire phoenix and a golden dragon over the Douluo continent" width="100%">
 </p>
 
